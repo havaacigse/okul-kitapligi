@@ -16,4 +16,4 @@ Kullanım:
 
 
 ### 🌐 Canlı Görüntüle
-👉 [https://okul-kitapligi.vercel.app](okul-kitapligi-kz91ue0nn-havas-projects-e52f143b.vercel.app)
+👉 [https://okul-kitapligi.vercel.app](https://okul-kitapligi.vercel.app)
